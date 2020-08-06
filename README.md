@@ -16,7 +16,7 @@ I merge a passion for usability and user experience with technical knowledge to 
 
 **WebFramework:** Rails, Django, ExpressJS, SailJS, Laravel, Spring
 
-**Frontend:** ReactJS, Angular, VueJS, SASS, LESS, jQuery, HTML5, CSS3
+**Frontend:** ReactJS, NextJS, Angular, VueJS, SASS, LESS, jQuery, HTML5, CSS3
 
 **Databases:** MySQL, PostgreSQL, SQLite, MogoDB
 
