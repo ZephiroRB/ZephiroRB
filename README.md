@@ -10,7 +10,7 @@ I merge a passion for usability and user experience with technical knowledge to 
 
 **WebServers:** Apache, Nginx
 
-**Virtualization:** Proxmox, VMware vSphere
+**Virtualization:** Proxmox, VMware vSphere, Docker, Kubernetes
 
 **Backend:** Ruby, Python, NodeJS, PHP, Dart, JAVA, TypeScript, Javascript
 
