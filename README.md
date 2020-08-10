@@ -20,6 +20,8 @@ I merge a passion for usability and user experience with technical knowledge to 
 
 **Frontend:** ReactJS, Angular, VueJS, SASS, LESS, jQuery, HTML5, CSS3
 
+**Template:** Haml, Slim, Jade, Handlerbars
+
 **Databases:** MySQL, PostgreSQL, SQLite, MogoDB
 
 **Mobile:** Android (Java | Kotlin), iOS (Swift)
