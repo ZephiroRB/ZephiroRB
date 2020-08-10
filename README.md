@@ -14,16 +14,18 @@ I merge a passion for usability and user experience with technical knowledge to 
 
 **Backend:** Ruby, Python, NodeJS, PHP, Dart, JAVA, TypeScript, Javascript
 
+**API:** REST, GraphQL
+
 **WebFramework:** Rails, Django, NestJS, ExpressJS, SailJS, Laravel, NextJS, Spring
 
 **Frontend:** ReactJS, Angular, VueJS, SASS, LESS, jQuery, HTML5, CSS3
 
 **Databases:** MySQL, PostgreSQL, SQLite, MogoDB
 
-**API:** REST, GraphQL
-
 **Mobile:** Android (Java | Kotlin), iOS (Swift)
 
-**CMS:** Wordpress, Drupal, Prestashop, Joomla, Shopify, Movable Type
+**CMS:** Wordpress, Drupal,Joomla, Movable Type
+
+**Eccomerce:** Prestashop, Shopify, Woocommerce
 
 **Services:** Amazon CE
