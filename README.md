@@ -12,7 +12,7 @@ I merge a passion for usability and user experience with technical knowledge to 
 
 **Virtualization:** Proxmox, VMware vSphere, Docker, Kubernetes
 
-**Backend:** Ruby, Python, NodeJS, PHP, JAVA, Javascript(TypeScript)
+**Backend:** Ruby, Python, JAVA, JHipster, NodeJS, PHP, Javascript(TypeScript)
 
 **API:** REST, GraphQL
 
@@ -30,4 +30,6 @@ I merge a passion for usability and user experience with technical knowledge to 
 
 **Eccomerce:** Prestashop, Shopify, Woocommerce
 
-**Services:** Amazon CE
+**Services:** Amazon CE, sonarcloud.io
+
+ 
