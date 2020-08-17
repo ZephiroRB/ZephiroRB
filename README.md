@@ -6,17 +6,17 @@ Dedicated and efficient full stack developer with 15+ years experience in applic
 
 I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as:
 
-**SysAdmin:** Ubuntu, Debian, Fedora
+**SysAdmin:** Ubuntu, Debian
 
-**WebServers:** Apache, Nginx
+**WebServers:** Apache, Nginx, Tomcat
 
 **Virtualization:** Proxmox, VMware vSphere, Docker, Kubernetes
 
-**Backend:** Ruby, Python, NodeJS, PHP, Dart, JAVA, TypeScript, Javascript
+**Backend:** Ruby, Python, NodeJS, PHP, JAVA, Javascript(TypeScript)
 
 **API:** REST, GraphQL
 
-**WebFramework:** Rails, Django, NestJS, ExpressJS, SailJS, Laravel, NextJS, Spring
+**WebFramework:** Rails, Django, SpringBoot, NestJS, ExpressJS, SailJS, Laravel, NextJS
 
 **Frontend:** ReactJS, Angular, VueJS, SASS, LESS, jQuery, HTML5, CSS3
 
