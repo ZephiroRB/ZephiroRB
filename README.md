@@ -12,13 +12,13 @@ I merge a passion for usability and user experience with technical knowledge to 
 
 **Virtualization:** Proxmox, VMware vSphere, Docker, Kubernetes
 
-**Backend:** Ruby, Python, JAVA, JHipster, NodeJS, PHP, Javascript(TypeScript)
+**Backend:** Ruby, Python, JAVA, Kotlin, NodeJS, TypeScript 
 
 **API:** REST, GraphQL
 
-**WebFramework:** Rails, Django, SpringBoot, NestJS, ExpressJS, SailJS, Laravel, NextJS
+**WebFramework:** Rails, Django, SpringBoot, NestJS, NextJS, NuxtJS
 
-**Frontend:** ReactJS, Angular, VueJS, SASS, LESS, jQuery, HTML5, CSS3
+**Frontend:** ReactJS, Angular.io, SASS, jQuery, HTML5, CSS3
 
 **Template:** Haml, Slim, Jade, Handlerbars
 
