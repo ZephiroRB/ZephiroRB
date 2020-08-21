@@ -11,7 +11,7 @@ I'm a coding passionate focused on **usability and user experience** 🖱️,  w
 [![ZephiroRB's Github stats](https://github-readme-stats.vercel.app/api?username=ZephiroRB&show_icons=true&count_private=true&layout=compact)](https://github.com/ZephiroRB/ZephiroRB)
 
 
-[![Lang's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZephiroRB&show_icons=true&layout=compact&hide=css,Objective-c,html)](https://github.com/ZephiroRB/ZephiroRB)
+[![Lang's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZephiroRB&show_icons=true&layout=compact&hide=css,javascript,html)](https://github.com/ZephiroRB/ZephiroRB)
 
 
 
