@@ -8,7 +8,12 @@ Dedicated and efficient, I make mobile 📱 apps and websites 🖥️ - with 15+
 
 I'm a coding passionate focused on **usability and user experience** 🖱️,  with technical knowledge to create cool digital experiences. Interested in tech and **OpenSource** ❤️
 
-[![ZephiroRB's Github stats](https://github-readme-stats.vercel.app/api?username=ZephiroRB&show_icons=true&count_private=true)](https://github.com/ZephiroRB/ZephiroRB)
+[![ZephiroRB's Github stats](https://github-readme-stats.vercel.app/api?username=ZephiroRB&show_icons=true&count_private=true&layout=compact)](https://github.com/ZephiroRB/ZephiroRB)
+
+
+[![Lang's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZephiroRB&show_icons=true&layout=compact&hide=css,Objective-c,html)](https://github.com/ZephiroRB/ZephiroRB)
+
+
 
 My repertoire includes programming languages and tools such as:
 
