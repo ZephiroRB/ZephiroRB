@@ -33,8 +33,8 @@ I'm a coding passionate focused on **usability and user experience** 🖱️,  w
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ZephiroRB&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZephiroRB&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ZephiroRB&show_icons=true&theme=radical&line_height=32&hide=stars,pr&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZephiroRB&hide=html,css&theme=tokyonight&count_private=true">
 </p>
 
 </details>
