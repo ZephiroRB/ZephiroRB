@@ -10,9 +10,11 @@ Dedicated and efficient, I make mobile 📱 apps and websites 🖥️ - with 15+
 I'm a coding passionate focused on **usability and user experience** 🖱️,  with technical knowledge to create cool digital experiences. Interested in tech and **OpenSource** ❤️
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 🤝 Open for collaborations in deep learning, analytics.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/ZephiroRB">Github</a>.
+- 🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>Spring Boot</strong>, and a bit of <strong>ML</strong>.
 
 ---
 <b>Tech Stack</b>
