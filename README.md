@@ -1,7 +1,6 @@
 ## Hi 👋 I am Carlos Montalvo (ZephiroRB)
-
-I'm a **Full Stack Developer** — Software Development Engineer by profession. 🐱‍💻 based in Queretaro, Mexico ☀️. 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "right">
+I'm a **Full Stack Developer** — Software Development Engineer by profession. 🐱‍💻 based in Queretaro, Mexico ☀️. 
 
 Dedicated and efficient, I make mobile 📱 apps and websites 🖥️ - with 15+ years experience in application layers, presentation layers, and databases.Seeking to further improve NodeJS skills as the future full stack developer 💻.
 
