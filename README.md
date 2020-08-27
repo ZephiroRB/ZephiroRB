@@ -15,7 +15,7 @@ I'm a coding passionate focused on **usability and user experience** 🖱️,  w
 - 🤝 Open for collaborations in deep learning, analytics.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/ZephiroRB">Github</a>.
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/ZephiroRB?tab=repositories">Github</a>.
 - 🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>Spring Boot</strong>, and a <strong>Asp.Net CORE</strong>.
 
 ---
