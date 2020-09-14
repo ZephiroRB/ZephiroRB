@@ -35,7 +35,7 @@ I'm a coding passionate focused on **usability and user experience** 🖱️,  w
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ZephiroRB&show_icons=true&theme=radical&line_height=29&hide=stars&count_private=true" style="vertical-align:middle">
-  <img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=ZephiroRB&hide=html,javascript,css,Objective-C&theme=tokyonight&layout=compact&count_private=true">
+  <img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=ZephiroRB&hide=html,SCSS,javascript,css,Objective-C&theme=tokyonight&layout=compact&count_private=true">
 </p>
 
 </details>
