@@ -1,5 +1,5 @@
 ## Hi 👋 I am Carlos Montalvo (ZephiroRB)
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "right">
+<img src="https://raw.githubusercontent.com/ZephiroRB/ZephiroRB/master/zro.gif" width="250" align = "right">
 
 I'm a **Full Stack Developer** — Software Development Engineer by profession. 🐱‍💻 based in Queretaro, Mexico ☀️. 
 
