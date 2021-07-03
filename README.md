@@ -23,9 +23,9 @@ I'm a coding passionate focused on **usability and user experience** 🖱️,  w
 
 <b>Tech Stack</b>
 
-- Rails & ASP.NET & SpringBoot
-- Angular 
-- Debian
+- Rails & ASP.NET 5 & SpringBoot
+- Angular / NextJs / Blazor
+- Debian / Ubuntu / Proxmox / Kubernetes 
 <br>
 
 ---
